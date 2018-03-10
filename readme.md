@@ -6,6 +6,8 @@
 
 ### How to start?
 ```bash
+git clone https://github.com/p-spider/d8video-spider.git
+cd d8video-spider
 npm install puppeteer -g
 npm install
 npm start
