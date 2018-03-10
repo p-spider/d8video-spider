@@ -12,3 +12,6 @@ yarn add puppeteer --ignore-scripts
 yarn install
 yarn start
 ```
+
+### Attention
+需要翻墙下载chromium,才可以下载到bin包
